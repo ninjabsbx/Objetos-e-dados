@@ -5,6 +5,6 @@
 
 # Exercícios de Aula A1
 
-## Atividade 1
+## Missão 1
 * [Atividade1](Atividade1)
 * [Atividade2](Atividade2)
