@@ -1,5 +1,5 @@
 # Objetos e Dados
-* Disciplina JODDM1A-JOD090-20231
+* Disciplina JODDM1B-JOD101-20232
 * IESB SUL
 * Professor: Elias do Nascimento Melo Filho
 
